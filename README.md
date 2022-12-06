@@ -19,9 +19,9 @@
 </div>
 
 <div>
-  <a href="https://github.com/gustavodividino">
-   <img height="180emm" src="https://github-readme-stats.vercel.app/api?username=gustavodividino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180emm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodividino&layout=compact&langs_count=16&theme=dracula" />
+  <a href="https://github.com/dividino-dev">
+   <img height="180emm" src="https://github-readme-stats.vercel.app/api?username=Dividino-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180emm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dividino-dev&layout=compact&langs_count=16&theme=dracula" />
 </div>
   
 <div>
