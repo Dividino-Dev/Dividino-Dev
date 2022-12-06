@@ -1,4 +1,4 @@
-### Olá!, Sou o Gustavo Dividino, apaixonado por desenvolvimento
+### Olá!, Sou o Gustavo, apaixonado por desenvolvimento
 
 - 🔭 Hoje trabalho com sistemas de telecomunicações e tenho a programação como um hobby
 - 🌱 Em evolução com a stack NodeJS e ReactJS com Typescript
