@@ -1,7 +1,7 @@
 ### Olá!, Sou o Gustavo, apaixonado por desenvolvimento
 
 - 💻 Graduado em Sistema da Informação
-- 📒 Cursando Pós Graduação em Desenvolvimento Full Stack
+- 📒 Pós Graduação em Desenvolvimento Full Stack
 - 🔭 Trabalho com sistemas de telecomunicações e tenho a programação como um hobby
 - 🎲 Já trabalhei com linguagens como C/C++ Visual Basic 6, Java SpringBoot, PHP e C#.Net
   
